@@ -1,12 +1,17 @@
+<<<<<<< HEAD
 # 简历
 
 > ——17/9/14
+=======
+# 一个会动的简历
+> This is my resume
+>>>>>>> 26e16a50bd4f014b156d5eb21ab71c384f2b86d3
 
 
 ## 使用方法
 
 ``` bash
-git clone git@github.com:jirengu-inc/animating-resume.git
+git clone 
 cd animating-resume
 npm install
 npm run dev
