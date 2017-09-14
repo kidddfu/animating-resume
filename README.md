@@ -1,8 +1,7 @@
-# 一个会动的简历模板
+# 简历
 
-> This is my resume
+> ——17/9/14
 
-[预览](https://jirengu-inc.github.io/animating-resume/public/)
 
 ## 使用方法
 
